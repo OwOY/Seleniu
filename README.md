@@ -14,10 +14,10 @@ Enter Keys.ENTER
 制表鍵 Keys.TAB  
 回退鍵 Keys.ESCAPE  
 刷新鍵 Keys.F5  
-全選（Ctrl+A）(Keys.CONTROL,'a')
-復制（Ctrl+C）(Keys.CONTROL,'c')
-剪切（Ctrl+X）(Keys.CONTROL,'x')
-粘貼（Ctrl+V）(Keys.CONTROL,'v')
+全選（Ctrl+A）(Keys.CONTROL,'a')  
+復制（Ctrl+C）(Keys.CONTROL,'c')  
+剪切（Ctrl+X）(Keys.CONTROL,'x')  
+粘貼（Ctrl+V）(Keys.CONTROL,'v')  
 
 
 # Driver Firefox Profile
