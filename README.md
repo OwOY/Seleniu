@@ -1,9 +1,12 @@
 # Selenium
 紀錄如何使用Selenium  
 import selenium
-# Driver Firefox
 from selenium import webdriver  
 driver = webdriver.Firefox()  
+
+driver.find_element_by_xpath()
+
+
 
 # Driver Firefox Profile
 
