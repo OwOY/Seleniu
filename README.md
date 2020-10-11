@@ -6,6 +6,14 @@ driver = webdriver.Firefox()
 
 driver.find_element_by_xpath()
 
+# Keys  
+from selenium.webdriver.common.keys import Keys
+Enter Keys.ENTER  
+刪除鍵 Keys.BACK_SPACE  
+空格鍵 Keys.SPACE  
+制表鍵 Keys.TAB  
+回退鍵 Keys.ESCAPE  
+刷新鍵 Keys.F5  
 
 
 # Driver Firefox Profile
