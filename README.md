@@ -43,5 +43,17 @@ https://medium.com/@yanweiliu/python%E7%88%AC%E8%9F%B2%E5%AD%B8%E7%BF%92%E7%AD%8
 # Timeout  
 driver.set_page_load_timeout(second)  
 
-# 隱藏Selenium操作
+# Selenium 網頁Handle
+上一頁: driver.back()  
+下一頁: driver.forward()  
+刷新:driver.refresh()  
+取得當前網址:driver.current_url  
+取得當前分頁:driver.title  
+當前視窗:driver.current_window_handle  
+所有視窗:driver.window_handles  
+視窗切換:driver.switch_to.window(<window_handle>)
+
+# ==============隱藏Selenium操作=================
 https://juejin.im/post/6844904095749242887
+
+
