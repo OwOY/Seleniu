@@ -22,6 +22,9 @@ Enter Keys.ENTER
 
 # Driver Firefox Profile
 
+https://medium.com/@yanweiliu/python%E7%88%AC%E8%9F%B2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%BA%8C-selenium%E8%87%AA%E5%8B%95%E5%8C%96-ab0a27a94ff2  
+
+
 profile = webdriver.FirefoxProfile()  
 profile.set_preference('browser.download.dir', path)  設定路徑  
 profile.set_preference('browser.download.folderList', 2)  1為預設路徑   2為自訂路徑  
@@ -36,9 +39,6 @@ action.context_click().perform()  操作右鍵選單
 
 # JS拉桿下拉  
 driver.execute_script("window.scrollTo(0, 1000)")
-
-# Selenium  
-https://medium.com/@yanweiliu/python%E7%88%AC%E8%9F%B2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%BA%8C-selenium%E8%87%AA%E5%8B%95%E5%8C%96-ab0a27a94ff2  
 
 # Timeout  
 driver.set_page_load_timeout(second)  
