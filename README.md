@@ -34,7 +34,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 action = ActionChains(driver).move_to_element(element)  移動到元素位置  
 action.context_click().perform()  操作右鍵選單  
 
-# 下拉至底  
+# JS拉桿下拉  
 driver.execute_script("window.scrollTo(0, 1000)")
 
 # Selenium  
