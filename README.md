@@ -31,6 +31,14 @@ profile.set_preference('browser.download.folderList', 2)  1為預設路徑   2�
 profile.set_preference('browser.download.manager.showWhenStarting', False)  是否顯示下載管理器
 driver = webdriver.Firefox(firefox_profile=profile)
 
+# 偽裝手機
+
+mobileEmulation = {"deviceMetrics": {"width": WIDTH, "height": HEIGHT, "pixelRatio": PIXEL_RATIO}, "userAgent": UA}  
+options = webdriver.ChromeOptions()  
+options.add_experimental_option('mobileEmulation', mobileEmulation)  
+
+driver = webdriver.Chrome(executable_path='chromedriver.exe', chrome_options=options)
+
 # ActionChains 模仿滑鼠操作
 
 from selenium.webdriver.common.action_chains import ActionChains  
