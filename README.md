@@ -3,9 +3,9 @@
 import selenium
 from selenium import webdriver  
 driver = webdriver.Firefox()  
-
-driver.find_element_by_xpath()
-driver.close()
+  
+driver.find_element_by_xpath()  
+driver.close()  
 取得網址 : driver.current_url
 # Keys  
 from selenium.webdriver.common.keys import Keys
