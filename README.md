@@ -1,12 +1,26 @@
 # Selenium
-紀錄如何使用Selenium  
+
+## How to use  
+```
 import selenium
 from selenium import webdriver  
 driver = webdriver.Firefox()  
-  
 driver.find_element_by_xpath()  
-driver.close()  
-取得網址 : driver.current_url
+driver.close()
+```
+  
+取得網址 : driver.current_url  
+
+# 獲取定位元素值    
+
+i = driver.find_element_by_xpath("")  
+i.get_attribute("data-id")  
+i.text     #顯示元素文字  
+i.size     #顯示元素尺寸  
+i..click() #點擊  
+i.submit() #提交表單  
+
+
 # Keys  
 from selenium.webdriver.common.keys import Keys
 Enter Keys.ENTER  
