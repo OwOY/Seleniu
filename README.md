@@ -41,17 +41,46 @@ i.submit() #提交表單
 from selenium.webdriver.common.keys import Keys
 driver.find_element_by_xpath().send_keys({text})    
 ```
-Enter Keys.ENTER  
-刪除鍵 Keys.BACK_SPACE  
-空格鍵 Keys.SPACE  
-制表鍵 Keys.TAB  
-回退鍵 Keys.ESCAPE  
-刷新鍵 Keys.F5  
-全選（Ctrl+A）(Keys.CONTROL,'a')  
-復制（Ctrl+C）(Keys.CONTROL,'c')  
-剪切（Ctrl+X）(Keys.CONTROL,'x')  
-粘貼（Ctrl+V）(Keys.CONTROL,'v')  
-
+- Enter 
+```
+Keys.ENTER  
+```
+- 刪除鍵 
+```
+Keys.BACK_SPACE  
+```
+- 空格鍵 
+```
+Keys.SPACE  
+```
+- 制表鍵 
+```
+Keys.TAB  
+```
+- 回退鍵 
+```
+Keys.ESCAPE  
+```
+- 刷新鍵 
+```
+Keys.F5  
+```
+- 全選（Ctrl+A）
+```
+(Keys.CONTROL,'a')
+```
+- 復制（Ctrl+C）
+```
+(Keys.CONTROL,'c') 
+```
+- 剪切（Ctrl+X）
+```
+(Keys.CONTROL,'x')  
+```
+- 粘貼（Ctrl+V）
+```
+(Keys.CONTROL,'v')  
+```
 
 ## Driver Firefox Profile
 
