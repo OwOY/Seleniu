@@ -11,27 +11,26 @@ driver.close()
 ```
 取得網址 : driver.current_url  
 
-## Web狀態
-
-driver.set_window_size(480,800)
-driver.maximize_window()  #視窗最大化
-driver.back()       #上一頁
-driver.forward()    #下一頁
-driver.refresh()    #重整
-driver.get_screenshot_as_file("xxx.jpg")    #視窗截圖
+## Web狀態  
+driver.set_window_size(480,800)  
+driver.maximize_window()  #視窗最大化  
+driver.back()       #上一頁  
+driver.forward()    #下一頁  
+driver.refresh()    #重整  
+driver.get_screenshot_as_file("xxx.jpg")    #視窗截圖  
 
 ## Options Setting 
-
-from selenium.webdriver.firefox.options import Options
-options = Options()
-options.headless = True
-
+```
+from selenium.webdriver.firefox.options import Options  
+options = Options()  
+options.headless = True  
+```
 
 ## 獲取定位元素值    
 
-i = driver.find_element_by_xpath("")  
-i.get_attribute("data-id")  #取得元素值
-i.text     #顯示元素文字  
+i = driver.find_element_by_xpath("")   
+i.get_attribute("data-id")  #取得元素值  
+i.text     #顯示元素文字    
 i.size     #顯示元素尺寸  
 i.click() #點擊  
 i.submit() #提交表單  
