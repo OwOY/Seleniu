@@ -1,4 +1,6 @@
-# Selenium
+<p align='center'>
+  <img height=250px width=550px src='https://learningactors.com/wp-content/uploads/2017/06/selenium.png'/>
+</p>
 
 ## How to use Selenium
 ```
