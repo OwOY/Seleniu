@@ -1,0 +1,554 @@
+1636623088291	geckodriver	INFO	Listening on 127.0.0.1:61923
+1636623091369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61924" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileTK6ELN"
+1636623091879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileTK6ELN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61924/devtools/browser/7cfdfd9e-874d-4142-b43b-106a28731108
+1636623095146	Marionette	INFO	Listening on port 61929
+1636623095629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636623149232	Marionette	INFO	Stopped listening on port 61929
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636623299164	geckodriver	INFO	Listening on 127.0.0.1:62242
+1636623302255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62243" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofiletcrE2h"
+1636623302735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofiletcrE2h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62243/devtools/browser/0c92ecef-7d68-4cb2-a43e-06572e4665f7
+1636623306064	Marionette	INFO	Listening on port 62250
+1636623306541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636623600773	Marionette	INFO	Stopped listening on port 62250
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+=1636473946, line 186: unreachable code after return statement
+1636623588317	Marionette	INFO	Stopped listening on port 62493
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1636623817079	geckodriver	INFO	Listening on 127.0.0.1:62724
+1636623820172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62725" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofile6yFoCY"
+1636623820677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofile6yFoCY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62725/devtools/browser/7127d54c-f063-45ba-bfb9-bc41d8d0aba6
+1636623823935	Marionette	INFO	Listening on port 62732
+1636623824405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636623836848	Marionette	INFO	Stopped listening on port 62732
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NPHKWV, line 47: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636623884636	geckodriver	INFO	Listening on 127.0.0.1:62830
+1636623887682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62831" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofilemkRKOR"
+1636623888241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofilemkRKOR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62831/devtools/browser/744ed819-414f-450e-8fd1-f4ed2ff8609a
+1636623891755	Marionette	INFO	Listening on port 62836
+1636623891893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636623904752	Marionette	INFO	Stopped listening on port 62836
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NPHKWV, line 47: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636624008410	geckodriver	INFO	Listening on 127.0.0.1:62980
+1636624011493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62981" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofile4bSIgz"
+1636624012017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofile4bSIgz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62981/devtools/browser/61cc74fe-c2cd-4f01-8670-0ffb01ba4075
+1636624015296	Marionette	INFO	Listening on port 62986
+1636624015738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624049377	Marionette	INFO	Stopped listening on port 62986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1636624179856	geckodriver	INFO	Listening on 127.0.0.1:63199
+1636624182942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63200" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofilePHfo9J"
+1636624183449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofilePHfo9J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63200/devtools/browser/b4f8ea37-eb2e-474c-a209-56a013cbb528
+1636624186546	Marionette	INFO	Listening on port 63205
+1636624186641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624234575	Marionette	INFO	Stopped listening on port 63205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+emoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624245789	Marionette	INFO	Stopped listening on port 63322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1636624311785	geckodriver	INFO	Listening on 127.0.0.1:63532
+1636624314841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63533" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileJJsGnM"
+1636624315334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileJJsGnM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63533/devtools/browser/c86ae72a-69a8-4b20-8804-f6b7db35ac44
+1636624318525	Marionette	INFO	Listening on port 63538
+1636624319054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624425975	Marionette	INFO	Stopped listening on port 63538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1636624478123	geckodriver	INFO	Listening on 127.0.0.1:63847
+1636624481201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63848" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileH5Ul7i"
+1636624481926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileH5Ul7i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63848/devtools/browser/7c8bab96-cce2-4cac-9dbd-d2c0788325ca
+1636624486218	Marionette	INFO	Listening on port 63853
+1636624486533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624558449	Marionette	INFO	Stopped listening on port 63853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636624601586	geckodriver	INFO	Listening on 127.0.0.1:64057
+1636624604631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64058" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofilelbnrZ9"
+1636624605129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofilelbnrZ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64058/devtools/browser/5e081da3-91c0-46c3-a940-fb0d09153cc1
+1636624608574	Marionette	INFO	Listening on port 64063
+1636624608866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624648639	Marionette	INFO	Stopped listening on port 64063
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636624917204	geckodriver	INFO	Listening on 127.0.0.1:64289
+1636624920259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64290" "-no-remote" "-profile" "C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileUJbFN3"
+1636624920774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asd12\\AppData\\Local\\Temp\\rust_mozprofileUJbFN3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64290/devtools/browser/4b9c86ea-978f-4318-9e5e-94a7356dcc2a
+1636624923988	Marionette	INFO	Listening on port 64295
+1636624924519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 70: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 178: unreachable code after return statement
+JavaScript warning: https://www.matchbook.com/assets/boot.js?_=1636473946, line 186: unreachable code after return statement
+1636624944514	Marionette	INFO	Stopped listening on port 64295
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
