@@ -83,7 +83,19 @@ Keys.F5
 ```
 (Keys.CONTROL,'v')  
 ```
+## Driver Chrome
+- 關閉通知
+```
+options = webdriver.ChromeOptions()
+prefs = {
+    'profile.default_content_setting_values' :
+        {
+        'notifications' : 2
+        }
+}
+driver = webdriver.Chrome(service=xxx, options=options)
 
+```
 ## Driver Firefox Profile
 
 https://medium.com/@yanweiliu/python%E7%88%AC%E8%9F%B2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%BA%8C-selenium%E8%87%AA%E5%8B%95%E5%8C%96-ab0a27a94ff2  
