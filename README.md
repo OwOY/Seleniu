@@ -27,6 +27,30 @@
       driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_option)
       ```
 
+## Options Setting 
+```
+from selenium.webdriver.firefox.options import Options  
+options = Options()  
+options.headless = True  # 無痕
+
+prefs = {
+    'profile.default_content_setting_values' :
+        {
+        'notifications' : 2
+        }
+}
+options.add_experimental_option('prefs', prefs) # 關閉瀏覽器彈窗通知
+options.add_experimental_option('detach', True) # 不自動關閉瀏覽器
+```
+## 連結已開啟之瀏覽器
+1. 設置參數開啟瀏覽器  
+    ```
+    chrome.exe --remote-debugging-port=9222 --user-data-dir="E:\selenium"
+    ```
+2. 使用option設定連結瀏覽器  
+    ```
+    chrome_option.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+    ```
 
 ## driver setting
 - 設定視窗大小
@@ -85,21 +109,6 @@
   ```
   driver.switch_to.window(<window_handle>)
   ```
-## Options Setting 
-```
-from selenium.webdriver.firefox.options import Options  
-options = Options()  
-options.headless = True  # 無痕
-
-prefs = {
-    'profile.default_content_setting_values' :
-        {
-        'notifications' : 2
-        }
-}
-options.add_experimental_option('prefs', prefs) # 關閉瀏覽器彈窗通知
-options.add_experimental_option('detach', True) # 不自動關閉瀏覽器
-```
 
 ## 獲取定位元素值    
 - 取得元素
